@@ -1,0 +1,24 @@
+constructor1
+copy constructor1
+copy constructor1
+contructor2
+distructor1
+copy constructor1
+distructor1
+copy constructor1
+distructor1
+constructor1
+constructor1
+copy constructor1
+contructor2
+distructor1
+copy constructor1
+copy constructor2
+distructor2
+distructor1
+distructor1
+distructor2
+distructor1
+distructor2
+distructor1
+distructor1
